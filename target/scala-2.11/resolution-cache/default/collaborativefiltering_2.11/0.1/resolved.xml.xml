@@ -4,7 +4,7 @@
 		module="collaborativefiltering_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20180416181129"
+		publication="20180419154100"
 	>
 		<description>
 		CollaborativeFiltering
@@ -32,25 +32,7 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.11" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.11" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="org.xerial" name="sqlite-jdbc" rev="3.20.0" conf="test->default(compile)"/>
-		<dependency org="org.scalatest" name="scalatest_2.11" rev="3.0.1" conf="test->default(compile)"/>
-		<dependency org="org.bitbucket.eunjeon" name="seunjeon_2.11" rev="1.3.0" conf="compile->default(compile)">
-			<exclude org="org.slf4j" module="slf4j-jdk14" name="*" type="*" ext="*" conf="" matcher="exact"/>
-		</dependency>
 		<dependency org="com.github.nscala-time" name="nscala-time_2.11" rev="2.16.0" conf="compile->default(compile)"/>
-		<dependency org="it.unimi.dsi" name="fastutil" rev="8.1.0" conf="compile->default(compile)"/>
-		<dependency org="com.iheart" name="ficus_2.11" rev="1.4.3" conf="compile->default(compile)"/>
-		<dependency org="com.github.scopt" name="scopt_2.11" rev="3.7.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.scala-logging" name="scala-logging_2.11" rev="3.5.0" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.akka" name="akka-http_2.11" rev="10.0.10" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.akka" name="akka-http-core_2.11" rev="10.0.10" conf="compile->default(compile)"/>
-		<dependency org="io.circe" name="circe-core_2.11" rev="0.8.0" conf="compile->default(compile)"/>
-		<dependency org="io.circe" name="circe-generic_2.11" rev="0.8.0" conf="compile->default(compile)"/>
-		<dependency org="io.circe" name="circe-parser_2.11" rev="0.8.0" conf="compile->default(compile)"/>
-		<dependency org="io.circe" name="circe-generic-extras_2.11" rev="0.8.0" conf="compile->default(compile)"/>
-		<dependency org="de.heikoseeberger" name="akka-http-circe_2.11" rev="1.18.1" conf="compile->default(compile)"/>
-		<dependency org="org.apache.hbase" name="hbase-common" rev="1.2.6" conf="compile->default(compile)"/>
-		<dependency org="org.apache.hbase" name="hbase-client" rev="1.2.6" conf="compile->default(compile)"/>
 		<dependency org="org.apache.hadoop" name="hadoop-client" rev="2.7.4" conf="provided->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.2.0" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-mllib_2.11" rev="2.2.0" conf="compile->default(compile)"/>

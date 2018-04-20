@@ -1,7 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ed5d527-8ab5-4047-a9c3-5d29e425b35e" name="Default" comment="" />
+    <list default="true" id="2ed5d527-8ab5-4047-a9c3-5d29e425b35e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__jline_jline_0_9_94_jar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/CF_Oksusu.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/CF_Oksusu_DF.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/LastFM.scala" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/SparkML.scala" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_mpilquist_simulacrum_2_11_0_10_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_scopt_scopt_2_11_3_7_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_github_stephenc_findbugs_findbugs_annotations_1_3_9_1_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_12_0_1_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_google_guava_guava_11_0_2_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_iheart_ficus_2_11_1_4_3_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_actor_2_11_2_4_19_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_2_11_10_0_10_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_http_core_2_11_10_0_10_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_parsing_2_11_10_0_10_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_stream_2_11_2_4_19_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_config_1_3_2_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_scala_logging_scala_logging_2_11_3_5_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_ssl_config_core_2_11_0_2_1_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__com_yammer_metrics_metrics_core_2_2_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__commons_logging_commons_logging_1_2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__commons_logging_commons_logging_1_1_3_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__de_heikoseeberger_akka_http_circe_2_11_1_18_1_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_core_2_11_0_8_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_generic_2_11_0_8_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_generic_extras_2_11_0_8_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_jawn_2_11_0_8_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_numbers_2_11_0_8_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__io_circe_circe_parser_2_11_0_8_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__it_unimi_dsi_fastutil_8_1_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_12_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_3_8_1_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_annotations_1_2_6_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_client_1_2_6_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_common_1_2_6_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_hbase_hbase_protocol_1_2_6_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_bitbucket_eunjeon_seunjeon_2_11_1_3_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_jruby_jcodings_jcodings_1_0_8_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_jruby_joni_joni_2_1_2_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_reactivestreams_reactive_streams_1_0_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_11_3_0_1_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_3_0_1_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_21_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_spire_math_jawn_parser_2_11_0_10_4_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_core_2_11_0_9_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_kernel_2_11_0_9_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_typelevel_cats_macros_2_11_0_9_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_xerial_sqlite_jdbc_3_20_0_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/collaborativefiltering.iml" afterPath="$PROJECT_DIR$/.idea/modules/collaborativefiltering.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac95d7fe18e0f14ab898$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac95d7fe18e0f14ab898.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac95d7fe18e0f14ab898.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/collaborativefiltering-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/collaborativefiltering-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/collaborativefiltering-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/collaborativefiltering-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-test.xml" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-collaborativefiltering-build-test.xml" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/CF.scala" afterPath="$PROJECT_DIR$/src/main/scala/CF.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/CF_Audio.scala" afterPath="$PROJECT_DIR$/src/main/scala/CF_Audio.scala" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/mobigen/cf/preprocessing/Preprocessing.scala" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$1$$anonfun$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$3$$anonfun$4.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$5.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$5.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$6.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$6.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$7.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$7.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$8.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$2.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$3.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$4.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$5.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$$anonfun$main$5.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF$.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$7.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$7.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$8.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$8.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$9.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$9.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$main$1.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$$anonfun$main$2.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$.class" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/CF_Audio$.class" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/mobigen/cf/preprocessing/Preprocessing$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/mobigen/cf/preprocessing/Preprocessing.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/collaborativefiltering_2.11-0.1.jar" afterPath="$PROJECT_DIR$/target/scala-2.11/collaborativefiltering_2.11-0.1.jar" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering$sources/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering$sources/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering$sources/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering$sources/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering_2.11/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering_2.11/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering_2.11/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/default/collaborativefiltering_2.11/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering$sources-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/default-collaborativefiltering_2.11-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.11.zip" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -23,8 +166,8 @@
       <file leaf-file-name="CF.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="62" column="3" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="62" selection-end-column="3" />
+            <state relative-caret-position="777">
+              <caret line="38" column="62" lean-forward="false" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -32,21 +175,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilePractice.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CF2.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/CF2.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="116" column="3" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="116" selection-end-column="3" />
+            <state relative-caret-position="882">
+              <caret line="48" column="53" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="48" selection-end-column="53" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -54,11 +187,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CF_Audio.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CF_Oksusu.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Oksusu.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="882">
+              <caret line="49" column="18" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparkML.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/SparkML.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CF_Oksusu_DF.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Oksusu_DF.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CF_Audio.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Audio.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+            <state relative-caret-position="42">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -66,22 +235,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RddExample.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/RddExample.scala">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
+      <file leaf-file-name="LastFM.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/LastFM.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-              <folding />
+            <state relative-caret-position="1491">
+              <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+              <folding>
+                <element signature="e#1#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +266,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>========== trainData collect</find>
+      <find>dis</find>
+      <find>userArtistDF</find>
+      <find>artistById</find>
+      <find>artistAliasartistAlias</find>
+      <find>artistAlias</find>
+      <find>buildCounts</find>
+      <find>bAllItemIDs</find>
+      <find>rawUserContentsData</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -107,12 +294,16 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/mobigen/cf/preprocessing/Preprocessing.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/FilePractice.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Hello.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/CF.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/CF2.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/RddExample.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/CF3.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/CF_Audio.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CF.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SparkML.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/LastFM.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CF2.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/CF_Oksusu.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CF_Oksusu_DF.scala" />
       </list>
     </option>
   </component>
@@ -123,10 +314,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
     <option name="y" value="23" />
-    <option name="width" value="1738" />
-    <option name="height" value="1057" />
+    <option name="width" value="1868" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -143,9 +336,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -157,11 +349,6 @@
             <path>
               <item name="CollaborativeFiltering" type="b2602c69:ProjectViewProjectNode" />
               <item name="CollaborativeFiltering" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CollaborativeFiltering" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollaborativeFiltering" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -176,19 +363,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CollaborativeFiltering" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CollaborativeFiltering" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="preprocessing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,7 +393,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CF_Audio">
+  <component name="RunManager" selected="Application.CF_Oksusu_DF">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -221,9 +401,9 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CF_Audio" type="Application" factoryName="Application" temporary="true">
+    <configuration name="CF" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="CF_Audio" />
+      <option name="MAIN_CLASS_NAME" value="CF" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -235,9 +415,9 @@
       <module name="collaborativefiltering" />
       <envs />
     </configuration>
-    <configuration name="FilePractice" type="Application" factoryName="Application" temporary="true">
+    <configuration name="CF_Oksusu" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FilePractice" />
+      <option name="MAIN_CLASS_NAME" value="CF_Oksusu" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -249,9 +429,37 @@
       <module name="collaborativefiltering" />
       <envs />
     </configuration>
-    <configuration name="RddExample" type="Application" factoryName="Application" temporary="true">
+    <configuration name="CF_Oksusu_DF" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RddExample" />
+      <option name="MAIN_CLASS_NAME" value="CF_Oksusu_DF" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collaborativefiltering" />
+      <envs />
+    </configuration>
+    <configuration name="LastFM" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="LastFM" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="collaborativefiltering" />
+      <envs />
+    </configuration>
+    <configuration name="SparkML" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="SparkML" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -337,21 +545,25 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.FilePractice" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RddExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CF_Audio" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.CF_Oksusu" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SparkML" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CF" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LastFM" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CF_Oksusu_DF" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.CF_Audio" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RddExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FilePractice" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.CF_Oksusu_DF" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CF_Oksusu" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LastFM" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SparkML" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CF" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1523869929089" />
+    <option name="lastUpdateTimestamp" value="1524120104352" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -403,15 +615,26 @@
       <workItem from="1523601840013" duration="1418000" />
       <workItem from="1523603431958" duration="3693000" />
       <workItem from="1523839155267" duration="368000" />
-      <workItem from="1523840475995" duration="13711000" />
+      <workItem from="1523840475995" duration="13859000" />
+      <workItem from="1523927411270" duration="4168000" />
+      <workItem from="1523950137883" duration="4953000" />
+      <workItem from="1524011354196" duration="3991000" />
+      <workItem from="1524031559885" duration="5727000" />
+      <workItem from="1524100476682" duration="3148000" />
+      <workItem from="1524103707101" duration="790000" />
+      <workItem from="1524105237914" duration="2502000" />
+      <workItem from="1524107756154" duration="24000" />
+      <workItem from="1524107864861" duration="19524000" />
+      <workItem from="1524189099148" duration="1141000" />
+      <workItem from="1524207747753" duration="3966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22180000" />
+    <option name="totallyTimeSpent" value="72262000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="23" width="1738" height="1057" extended-state="0" />
+    <frame x="0" y="23" width="1868" height="1021" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -420,7 +643,6 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -429,16 +651,16 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45888326" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6807165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37226698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15738758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4071066" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -447,6 +669,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -458,10 +681,230 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Oksusu.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="101" column="26" lean-forward="false" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkML.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Audio.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RddExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="51" column="62" lean-forward="false" selection-start-line="51" selection-start-column="62" selection-end-line="51" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="116" column="3" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="116" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Audio.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RddExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Oksusu.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1554">
+          <caret line="80" column="32" lean-forward="false" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RddExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="62" column="3" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="62" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="116" column="3" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="116" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RddExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Audio.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -509,37 +952,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Preparedata.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/mobigen/cf/preprocessing/Preprocessing.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/mobigen/cf/preprocessing/Preprocessing.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/Hello.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="62" column="3" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="62" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -547,7 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1090">
           <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -555,42 +971,133 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CF3.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF3.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar!/scala/collection/immutable/StringLike.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="272" column="6" lean-forward="false" selection-start-line="272" selection-start-column="6" selection-end-line="272" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/FilePractice.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Audio.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/SparkContext.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="829" column="61" lean-forward="false" selection-start-line="829" selection-start-column="50" selection-end-line="829" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-core_2.11/srcs/spark-core_2.11-2.2.0-sources.jar!/org/apache/spark/rdd/RDD.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="377" column="6" lean-forward="false" selection-start-line="377" selection-start-column="6" selection-end-line="377" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/recommendation/MatrixFactorizationModel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="118" column="58" lean-forward="true" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="62" lean-forward="false" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/CF2.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="116" column="3" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="116" selection-end-column="3" />
+        <state relative-caret-position="882">
+          <caret line="48" column="53" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="48" selection-end-column="53" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.11/srcs/spark-mllib_2.11-2.2.0-sources.jar!/org/apache/spark/mllib/recommendation/ALS.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="445" column="30" lean-forward="false" selection-start-line="445" selection-start-column="6" selection-end-line="445" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="337" column="25" lean-forward="false" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LastFM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+          <folding>
+            <element signature="e#1#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="47" column="54" lean-forward="false" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+        <state relative-caret-position="420">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Audio.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkML.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="59" column="43" lean-forward="true" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
+        <state relative-caret-position="399">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="13" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Oksusu.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="18" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CF_Oksusu_DF.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>

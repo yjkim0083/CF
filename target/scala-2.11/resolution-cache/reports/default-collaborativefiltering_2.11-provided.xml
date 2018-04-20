@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="provided"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180416181129"/>
+		date="20180419154100"/>
 	<dependencies>
 		<module organisation="org.apache.hadoop" name="hadoop-client">
 			<revision name="2.7.4" status="release" pubdate="20170729060618" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
@@ -437,14 +437,11 @@
 			</revision>
 		</module>
 		<module organisation="jline" name="jline">
-			<revision name="0.9.94" status="release" pubdate="20080223045343" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jline.sourceforge.net" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="46">
+			<revision name="0.9.94" status="release" pubdate="20080223045343" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jline.sourceforge.net" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*)" position="46">
 				<license name="BSD" url="LICENSE.txt"/>
 				<metadata-artifact status="no" details="" size="2968" time="0" location="/Users/yjkim/.ivy2/cache/jline/jline/ivy-0.9.94.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/jline/jline/0.9.94/jline-0.9.94.pom"/>
 				<caller organisation="org.apache.zookeeper" name="zookeeper" conf="compile, runtime" rev="0.9.94" rev-constraint-default="0.9.94" rev-constraint-dynamic="0.9.94" callerrev="3.4.6"/>
 				<artifacts>
-					<artifact name="jline" type="jar" ext="jar" status="no" details="" size="87325" time="0" location="/Users/yjkim/.ivy2/cache/jline/jline/jars/jline-0.9.94.jar">
-						<origin-location is-local="false" location="https://repo1.maven.org/maven2/jline/jline/0.9.94/jline-0.9.94.jar"/>
-					</artifact>
 				</artifacts>
 			</revision>
 		</module>
@@ -1157,10 +1154,8 @@
 			</revision>
 			<revision name="1.2" evicted="latest-revision" evicted-reason="" downloaded="false" searched="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="-1">
 				<evicted-by rev="1.4"/>
-				<caller organisation="org.apache.httpcomponents" name="httpclient" conf="compile, runtime" rev="1.6" rev-constraint-default="1.6" rev-constraint-dynamic="1.6" callerrev="4.2.5"/>
 				<caller organisation="commons-httpclient" name="commons-httpclient" conf="compile, runtime" rev="1.2" rev-constraint-default="1.2" rev-constraint-dynamic="1.2" callerrev="3.1"/>
 				<caller organisation="org.apache.hadoop" name="hadoop-common" conf="compile, runtime" rev="1.4" rev-constraint-default="1.4" rev-constraint-dynamic="1.4" callerrev="2.7.4"/>
-				<caller organisation="org.apache.hadoop" name="hadoop-auth" conf="compile, runtime" rev="1.4" rev-constraint-default="1.4" rev-constraint-dynamic="1.4" callerrev="2.7.4"/>
 				<artifacts>
 				</artifacts>
 			</revision>
